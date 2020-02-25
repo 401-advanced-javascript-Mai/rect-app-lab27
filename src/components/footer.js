@@ -2,7 +2,7 @@ import React from 'react';
 const Footer =()=>{
   return(
     <footer>
-            @mai-2020
+            @maiY-2020
     </footer>
   );
 };
