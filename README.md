@@ -18,6 +18,9 @@ You will also see any lint errors in the console.
 ### to test the app 
 npm run test 
 
+### link for workFlows(action)(test + deploy )
+https://github.com/401-advanced-javascript-Mai/rect-app-lab27/actions
+
 ## the link of deploy app in the gh-pages
 https://401-advanced-javascript-mai.github.io/rect-app-lab27/
 
