@@ -5,7 +5,7 @@ import Header from './components/header.js';
 import Footer from './components/footer.js';
 import Main from'./components/main.js';
 
-
+// require other components
 class App extends React.Component{
   render(){
     return(
