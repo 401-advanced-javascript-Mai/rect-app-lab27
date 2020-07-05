@@ -26,7 +26,7 @@ class Main extends React.Component {
       if (number > 0) {
         polarity = 'positive';
       } else if (number < 0) {
-        polarity = 'negative';
+        polarity = 'negative'
       }
       this.setState({ number, polarity });
     }
