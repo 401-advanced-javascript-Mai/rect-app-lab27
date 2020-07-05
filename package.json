@@ -12,6 +12,9 @@
     "deploy": "gh-pages -d build",
     "lint":"eslint '**/*.js'"
   },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/401-advanced-javascript-Mai/rect-app-lab27.git"
