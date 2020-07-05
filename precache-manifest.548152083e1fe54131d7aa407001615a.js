@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "232c3492df7e397164d20eb29ca30fb4",
+    "revision": "661ebc5e6d9f682c6b56c6d891dc09e0",
     "url": "/rect-app-lab27/index.html"
   },
   {
-    "revision": "1b2bb57949f517f27ed9",
+    "revision": "f30468dfe78a1bd3b128",
     "url": "/rect-app-lab27/static/css/main.4ade8586.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/rect-app-lab27/static/js/2.aa1d9bca.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "1b2bb57949f517f27ed9",
-    "url": "/rect-app-lab27/static/js/main.4dbffe03.chunk.js"
+    "revision": "f30468dfe78a1bd3b128",
+    "url": "/rect-app-lab27/static/js/main.97a83ddf.chunk.js"
   },
   {
     "revision": "3f634d24d6d92f81ce49",
